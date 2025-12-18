@@ -1,6 +1,13 @@
-# SaaS Churn Predictor
+# ChurnGuard 🔮
 
-Analyze your Stripe data to predict which customers are at risk of churning. Get actionable insights to reduce churn and improve retention.
+> **SaaS Churn Predictor** - Analyze your Stripe data to predict which customers are at risk of churning. Get actionable insights to reduce churn and improve retention.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/yksanjo/ChurnGuard)
+[![GitHub stars](https://img.shields.io/github/stars/yksanjo/ChurnGuard?style=social)](https://github.com/yksanjo/ChurnGuard)
+
+**ChurnGuard** uses machine learning and heuristics to analyze your Stripe subscription data, identifying customers at risk of churning before it's too late. Get risk scores, recommendations, and actionable insights to improve retention.
 
 ## Features
 
