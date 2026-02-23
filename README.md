@@ -1,5 +1,12 @@
 # ChurnGuard
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ChurnGuard/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ChurnGuard/actions)
+![License](https://img.shields.io/github/license/yksanjo/ChurnGuard)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ChurnGuard)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ChurnGuard)
+
 ## Detailed Description
 
 ChurnGuard is maintained as an industry-grade software project with production-ready engineering practices.  
